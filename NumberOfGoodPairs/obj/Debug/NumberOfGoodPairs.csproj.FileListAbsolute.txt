@@ -1,0 +1,14 @@
+Z:\Programacao\Backend .net c#\NOVO\LeetCode\LeetCode\NumberOfGoodPairs\bin\Debug\NumberOfGoodPairs.exe
+Z:\Programacao\Backend .net c#\NOVO\LeetCode\LeetCode\NumberOfGoodPairs\bin\Debug\NumberOfGoodPairs.pdb
+Z:\Programacao\Backend .net c#\NOVO\LeetCode\LeetCode\NumberOfGoodPairs\obj\Debug\NumberOfGoodPairs.csproj.AssemblyReference.cache
+Z:\Programacao\Backend .net c#\NOVO\LeetCode\LeetCode\NumberOfGoodPairs\obj\Debug\NumberOfGoodPairs.csproj.SuggestedBindingRedirects.cache
+Z:\Programacao\Backend .net c#\NOVO\LeetCode\LeetCode\NumberOfGoodPairs\obj\Debug\NumberOfGoodPairs.csproj.CoreCompileInputs.cache
+Z:\Programacao\Backend .net c#\NOVO\LeetCode\LeetCode\NumberOfGoodPairs\obj\Debug\NumberOfGoodPairs.exe
+Z:\Programacao\Backend .net c#\NOVO\LeetCode\LeetCode\NumberOfGoodPairs\obj\Debug\NumberOfGoodPairs.pdb
+Z:\Programacao\Backend\net c#\LeetCode\LeetCode\NumberOfGoodPairs\bin\Debug\NumberOfGoodPairs.exe
+Z:\Programacao\Backend\net c#\LeetCode\LeetCode\NumberOfGoodPairs\bin\Debug\NumberOfGoodPairs.pdb
+Z:\Programacao\Backend\net c#\LeetCode\LeetCode\NumberOfGoodPairs\obj\Debug\NumberOfGoodPairs.csproj.AssemblyReference.cache
+Z:\Programacao\Backend\net c#\LeetCode\LeetCode\NumberOfGoodPairs\obj\Debug\NumberOfGoodPairs.csproj.SuggestedBindingRedirects.cache
+Z:\Programacao\Backend\net c#\LeetCode\LeetCode\NumberOfGoodPairs\obj\Debug\NumberOfGoodPairs.csproj.CoreCompileInputs.cache
+Z:\Programacao\Backend\net c#\LeetCode\LeetCode\NumberOfGoodPairs\obj\Debug\NumberOfGoodPairs.exe
+Z:\Programacao\Backend\net c#\LeetCode\LeetCode\NumberOfGoodPairs\obj\Debug\NumberOfGoodPairs.pdb
